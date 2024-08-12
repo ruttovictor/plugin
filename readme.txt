@@ -45,12 +45,6 @@ Go to the Quotable settings page in the WordPress admin dashboard and select the
 
 Choose a display style from the settings page. You can further customize the look by modifying the CSS in the `qod-style.css` file located in the plugin's `css` directory.
 
-== Screenshots ==
-
-![Quotable Settings](assets/images/settings-screenshot.png)
-![Quotable Display](assets/images/display-screenshot.png)
-
-
 == Upgrade Notice ==
 
 = 1.1 =
